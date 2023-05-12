@@ -1,13 +1,11 @@
-### Olá! Eu sou o Gabriel Andreoli ✌️
+<div>
+  <h2>Olá! Eu sou o Gabriel Andreoli ✌️</h2>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-andreoli&theme=tokyonight&layout=donut"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-andreoli&show_icons=true&theme=tokyonight&count_private=true"/>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-andreoli/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-andreoli)](https://github.com/gabriel-andreoli/github-readme-stats)
-![Gabriel Andreoli status](https://github-readme-stats.vercel.app/api?username=gabriel-andreoli&show_icons=true&theme=tokyonight)
-
-### Tecnologias
-
-<div style="display: inline_block">
+<div style="display: inline_block;">
+  <h2>Tecnologias</h2>
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img align="center" alt="ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
@@ -19,5 +17,10 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img align="center" alt="photoshop" src="https://aleen42.github.io/badges/src/photoshop.svg" />
-</div><br/>
+</div>
 
+<div>
+  <h2>Contatos</h2>
+  <a href="https://www.linkedin.com/in/gabriel-andreoli/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <h3>gabriandreoli@outlook.com</h3>
+</div>
