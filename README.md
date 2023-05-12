@@ -21,6 +21,6 @@
 
 <div>
   <h2>Contatos</h2>
-  <a href="https://www.linkedin.com/in/gabriel-andreoli/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/gabriel-andreoli/" target="_blank" rel="noopener noreferrer"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <h3>gabriandreoli@outlook.com</h3>
 </div>
